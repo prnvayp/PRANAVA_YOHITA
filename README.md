@@ -2,7 +2,7 @@
 
 🎯 **Flutter Developer | Frontend Engineer | Cloud & DevOps Enthusiast**  
 📍 Final Year CSE Student @ Kumaraguru College of Technology  
-📧 pranavayohita@gmail.com | 🌐 [LinkedIn](https://rb.gy/3hzi3c)  
+📧 pranavayohita@gmail.com | 🌐 [LinkedIn](www.linkedin.com/in/pranava-yohita-pasupathi)  
 
 ---
 
@@ -79,13 +79,11 @@ An AI-based **runway debris detection** system for airports using **RetinaNet & 
 
 ## 📈 GitHub Stats  
 
-![Pranava's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-
 ---
 
 ## 📬 Let's Connect  
 
-💼 [LinkedIn](https://rb.gy/3hzi3c) | 💬 [Email](mailto:pranavayohita@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/pranava-yohita-pasupathi) | 💬 [Email](mailto:pranavayohita@gmail.com)  
 
 ---
 
